@@ -1,0 +1,11 @@
+1,Rice,1KG,3.0
+2,Lentils,1KG,4.5
+3,Bread,300GM,3.0
+4,Garlic,1KG,2.5
+5,Ginger,1KG,3.0
+6,Spinach,500GM,5.0
+7,Oranges,700GM,4.5
+8,Apples,500GM,4.0
+9,Banana,350GM,2.2
+10,Butter,500GM,4.75
+11,Coffee,250GM,5.2
